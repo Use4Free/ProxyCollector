@@ -5,8 +5,8 @@ Subscriptions are automatically updated every 24 hours.
 [Singbox](https://github.com/SagerNet/sing-box) is used for testing proxies.
 ## Usage
 Simply import the subscription links in your client of choice.
-- [Normal V2Ray subscription](https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt)
-- [SingBox json config](https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/singbox.txt)
+- [Normal V2Ray subscription](https://raw.githubusercontent.com/Use4Free/ProxyCollector/master/sub/proxies.txt)
+- [SingBox json config](https://raw.githubusercontent.com/Use4Free/ProxyCollector/master/sub/singbox.txt)
 ## Sources
 - [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator)
 - [yebekhe/TVC](https://github.com/yebekhe/TVC)
