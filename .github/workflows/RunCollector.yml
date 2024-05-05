@@ -15,13 +15,13 @@ jobs:
 
     env:
       GithubApiToken: ${{secrets.GH_API_TOKEN}}
-      GithubUser: Mahdi0024
+      GithubUser: Use4Free
       GithubRepo: ProxyCollector
       Timeout: 7000
       MaxThreadCount: 96
       SingboxPath: sing-box
       V2rayFormatResultPath: sub/proxies.txt
-      SingboxFormatResultPath: sub/singbox.txt
+      SingboxFormatResultPath: sub/singbox.json
       Sources: |
         https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
         https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes
